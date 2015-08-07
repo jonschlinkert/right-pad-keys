@@ -1,0 +1,60 @@
+{
+  "name": "right-pad-keys",
+  "description": "Right pad the keys of an object.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jonschlinkert/right-pad-keys",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "jonschlinkert/right-pad-keys",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/right-pad-keys/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "isobject": "^2.0.0",
+    "longest": "^1.0.1",
+    "repeat-string": "^1.5.2"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "keywords": [
+    "align",
+    "alignment",
+    "column",
+    "fill",
+    "longest",
+    "object",
+    "pad",
+    "right",
+    "table",
+    "text",
+    "value",
+    "values"
+  ],
+  "verb": {
+    "related": {
+      "list": [
+        "right-pad-values",
+        "right-align-values",
+        "right-align-keys",
+        "longest",
+        "longest-value",
+        "repeat-element",
+        "repeat-string",
+        "pad-left",
+        "pad-right"
+      ]
+    }
+  }
+}
