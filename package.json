@@ -1,7 +1,7 @@
 {
   "name": "right-pad-keys",
   "description": "Right pad the keys of an object.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/jonschlinkert/right-pad-keys",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "jonschlinkert/right-pad-keys",
@@ -45,15 +45,16 @@
   "verb": {
     "related": {
       "list": [
-        "right-pad-values",
-        "right-align-values",
-        "right-align-keys",
         "longest",
         "longest-value",
+        "pad-left",
+        "pad-right",
         "repeat-element",
         "repeat-string",
-        "pad-left",
-        "pad-right"
+        "right-align-keys",
+        "right-align-values",
+        "right-pad-keys",
+        "right-pad-values"
       ]
     }
   }
