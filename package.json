@@ -1,7 +1,7 @@
 {
   "name": "right-pad-keys",
   "description": "Right pad the keys of an object.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/jonschlinkert/right-pad-keys",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "jonschlinkert/right-pad-keys",
@@ -22,7 +22,7 @@
   "dependencies": {
     "isobject": "^2.0.0",
     "longest": "^1.0.1",
-    "repeat-string": "^1.5.2"
+    "pad-right": "^0.2.2"
   },
   "devDependencies": {
     "mocha": "*",
